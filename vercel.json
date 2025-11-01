@@ -1,5 +1,4 @@
 {
-  "projectId": "bodero-store-replenishment-orders",
   "buildCommand": "next build",
   "devCommand": "next dev",
   "framework": "nextjs"
